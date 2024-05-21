@@ -21,5 +21,5 @@ public class DemoApplication  {
 //		System.out.println("Comparação = " + passwordEncoder.matches("123456",
 //				"$2a$10$Sw8dPl74Galwf/vxyuIWPetrKoNfdjj.Xo6Y2WJpnCwbQhy7583Ne"));
 //	}
-	
+
 }
